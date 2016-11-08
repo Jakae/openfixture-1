@@ -56,7 +56,7 @@ class GenFixture:
     min_y = float ("inf")
     origin = [ float ("inf"), float ("inf") ]
     dims = [0, 0]
-    test_points = []
+    test_points = [4, 7]
     
     def __init__(self, prj_name, brd, mat_th):
         self.prj_name = prj_name
