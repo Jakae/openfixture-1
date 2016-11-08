@@ -7,7 +7,7 @@
 # CC-BY-SA 4.0
 #
 # Takes two arguments:
-# 1. pcb_th (mm) - PCB thickness
+# 1. pcb_th (1.6) - PCB thickness
 # 2. mat_th (mm) - Laser cut material thickness
 #
 #   Args - Path to store
